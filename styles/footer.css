@@ -1,0 +1,41 @@
+footer{
+    background-color: gray; 
+    text-align: right;
+    padding: 10px;
+      
+}
+
+.footer-links{
+    
+}
+
+.footer-links li {
+    float: right;
+}
+
+.footer-links p {
+    margin-right: 23px;
+}
+
+.footer-links li {
+    list-style-type: none;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-links p {
+    color: lightgray;
+}
+
+button {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 10px;
+    width: 25%;
+    margin-bottom: 15px;
+    font-size: medium;
+}

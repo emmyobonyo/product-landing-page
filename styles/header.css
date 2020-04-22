@@ -1,0 +1,37 @@
+nav {    
+    position: fixed;
+    width: 100%;
+    background-color: #eee;
+    margin: 0;
+        
+}
+.logo {
+    float: left;
+    width: 50%;
+    margin-top: 30px;
+}
+
+img {    
+    width: 300px;
+}
+
+.links {
+    margin-top: 30px;
+}
+
+ul.header {
+    display: flex;    
+}
+
+li {
+    margin: 0 30px;
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+}
+
+.links li {
+    list-style-type: none;
+}

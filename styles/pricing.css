@@ -1,0 +1,39 @@
+@media (max-width: 300px) {
+    p {
+        font-size: small;
+    }
+}
+
+#pricing {
+    margin: auto;
+    margin-top: 60px;         
+}
+
+.price1 {
+    width: 30%;
+    float: left;
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 3px;
+}
+
+.floating{
+    overflow: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.price1 h3 {
+    background-color: lightgray;
+    text-transform: uppercase;
+    margin:0;
+    padding: 10px;
+}
+
+#how-it-works {
+    margin-top: 40px;
+}
+
+.price1 h4 {
+    font-size: 30px;    
+}

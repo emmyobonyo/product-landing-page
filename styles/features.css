@@ -1,0 +1,23 @@
+i {
+    display: inline-block;
+    color: darkorange;
+    
+}
+
+div.icon-info {
+    display: inline-block;
+    text-align: left;
+    margin-left: 60px;
+}
+
+div.icon {
+    display: inline-block;    
+}
+
+#features {
+    margin-top: 70px;
+}
+
+p.icon {
+    margin-top: -20px;
+}
